@@ -1,0 +1,23 @@
+{
+  "name": "roadcode",
+  "version": "1.0.0",
+  "description": "A tool to learn the road code",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turehans/RoadCode.git"
+  },
+  "author": "turehans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turehans/RoadCode/issues"
+  },
+  "homepage": "https://github.com/turehans/RoadCode#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
